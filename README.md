@@ -1,5 +1,3 @@
-Dưới đây là nội dung bản CV/Portfolio của bạn đã được chuyển đổi sang định dạng Markdown để dễ dàng lưu trữ hoặc gửi qua các nền tảng hỗ trợ văn bản thuần túy:
-
 # CAO PHƯỚC DANH - CHUYÊN GIA HẠ TẦNG IT & NETWORK ADMINISTRATOR
 
 **ID:** IT_SYS_ADMIN_2025  
